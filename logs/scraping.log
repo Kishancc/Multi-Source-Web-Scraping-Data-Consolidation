@@ -1,0 +1,1016 @@
+2026-10-06 20:46:52,494 | INFO | __main__ | Starting scraping pipeline
+2026-10-06 20:46:52,494 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/
+2026-10-06 20:46:52,494 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/
+2026-10-06 20:46:59,699 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/ - Status: 200
+2026-10-06 20:47:00,249 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/
+2026-10-06 20:47:00,270 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 20:47:00,271 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 20:47:02,097 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-2.html - Status: 200
+2026-10-06 20:47:02,636 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 20:47:02,761 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 20:47:02,763 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 20:47:04,186 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-3.html - Status: 200
+2026-10-06 20:47:04,723 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 20:47:04,737 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 20:47:04,737 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 20:47:06,466 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-4.html - Status: 200
+2026-10-06 20:47:07,008 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 20:47:07,133 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 20:47:07,134 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 20:47:07,875 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-5.html - Status: 200
+2026-10-06 20:47:08,410 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 20:47:08,425 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 20:47:08,426 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 20:47:09,409 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-6.html - Status: 200
+2026-10-06 20:47:09,943 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 20:47:09,956 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 20:47:09,958 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 20:47:10,983 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-7.html - Status: 200
+2026-10-06 20:47:11,519 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 20:47:11,535 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 20:47:11,535 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 20:47:12,583 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-8.html - Status: 200
+2026-10-06 20:47:13,115 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 20:47:13,131 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 20:47:13,132 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 20:47:14,281 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-9.html - Status: 200
+2026-10-06 20:47:14,818 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 20:47:14,924 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 20:47:14,926 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 20:47:16,121 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-10.html - Status: 200
+2026-10-06 20:47:16,772 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 20:47:16,790 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 20:47:16,791 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 20:47:17,290 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-11.html - Status: 200
+2026-10-06 20:47:17,828 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 20:47:17,842 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 20:47:17,842 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 20:47:18,425 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-12.html - Status: 200
+2026-10-06 20:47:19,100 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 20:47:19,115 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 20:47:19,116 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 20:47:20,468 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-13.html - Status: 200
+2026-10-06 20:47:21,002 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 20:47:21,019 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 20:47:21,020 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 20:47:21,901 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-14.html - Status: 200
+2026-10-06 20:47:22,443 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 20:47:22,457 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 20:47:22,457 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 20:47:23,606 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-15.html - Status: 200
+2026-10-06 20:47:24,140 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 20:47:24,252 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 20:47:24,254 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 20:47:25,076 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-16.html - Status: 200
+2026-10-06 20:47:25,622 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 20:47:25,637 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 20:47:25,637 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 20:47:26,513 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-17.html - Status: 200
+2026-10-06 20:47:27,053 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 20:47:27,162 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 20:47:27,164 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 20:47:28,250 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-18.html - Status: 200
+2026-10-06 20:47:28,877 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 20:47:28,904 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 20:47:28,981 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 20:47:30,330 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-19.html - Status: 200
+2026-10-06 20:47:30,892 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 20:47:30,990 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 20:47:30,991 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 20:47:34,481 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-20.html - Status: 200
+2026-10-06 20:47:35,009 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 20:47:35,019 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 20:47:35,019 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 20:47:36,880 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-21.html - Status: 200
+2026-10-06 20:47:37,404 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 20:47:37,414 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 20:47:37,414 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 20:47:40,862 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-22.html - Status: 200
+2026-10-06 20:47:41,385 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 20:47:41,394 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 20:47:41,395 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 20:47:43,380 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-23.html - Status: 200
+2026-10-06 20:47:43,903 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 20:47:43,913 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 20:47:43,913 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 20:47:45,043 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-24.html - Status: 200
+2026-10-06 20:47:45,566 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 20:47:45,575 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 20:47:45,576 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 20:47:46,783 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-25.html - Status: 200
+2026-10-06 20:47:47,319 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 20:47:47,329 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 20:47:47,329 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 20:47:48,729 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-26.html - Status: 200
+2026-10-06 20:47:49,250 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 20:47:49,259 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 20:47:49,260 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 20:47:50,572 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-27.html - Status: 200
+2026-10-06 20:47:51,095 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 20:47:51,104 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 20:47:51,105 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 20:47:52,358 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-28.html - Status: 200
+2026-10-06 20:47:52,886 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 20:47:52,895 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 20:47:52,895 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 20:47:53,851 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-29.html - Status: 200
+2026-10-06 20:47:54,375 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 20:47:54,384 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 20:47:54,389 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 20:47:55,902 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-30.html - Status: 200
+2026-10-06 20:47:56,425 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 20:47:56,434 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 20:47:56,437 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 20:47:57,179 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-31.html - Status: 200
+2026-10-06 20:47:57,704 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 20:47:57,714 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 20:47:57,715 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 20:47:58,455 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-32.html - Status: 200
+2026-10-06 20:47:58,977 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 20:47:58,986 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 20:47:58,986 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 20:47:59,788 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-33.html - Status: 200
+2026-10-06 20:48:00,310 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 20:48:00,319 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 20:48:00,319 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 20:48:01,094 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-34.html - Status: 200
+2026-10-06 20:48:01,618 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 20:48:01,627 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 20:48:01,627 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 20:48:02,425 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-35.html - Status: 200
+2026-10-06 20:48:02,947 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 20:48:02,956 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 20:48:02,956 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 20:48:03,866 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-36.html - Status: 200
+2026-10-06 20:48:04,387 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 20:48:04,395 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 20:48:04,395 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 20:48:05,365 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-37.html - Status: 200
+2026-10-06 20:48:05,938 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 20:48:05,948 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 20:48:05,948 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 20:48:06,813 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-38.html - Status: 200
+2026-10-06 20:48:07,335 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 20:48:07,344 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 20:48:07,345 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 20:48:08,338 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-39.html - Status: 200
+2026-10-06 20:48:08,861 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 20:48:08,870 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 20:48:08,871 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 20:48:10,845 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-40.html - Status: 200
+2026-10-06 20:48:11,367 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 20:48:11,375 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 20:48:11,376 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 20:48:12,488 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-41.html - Status: 200
+2026-10-06 20:48:13,010 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 20:48:13,019 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 20:48:13,020 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 20:48:14,126 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-42.html - Status: 200
+2026-10-06 20:48:14,646 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 20:48:14,655 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 20:48:14,655 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 20:48:15,764 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-43.html - Status: 200
+2026-10-06 20:48:16,286 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 20:48:16,296 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 20:48:16,297 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 20:48:17,061 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-44.html - Status: 200
+2026-10-06 20:48:17,581 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 20:48:17,590 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 20:48:17,590 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 20:48:19,111 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-45.html - Status: 200
+2026-10-06 20:48:19,653 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 20:48:19,673 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 20:48:19,673 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 20:48:20,639 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-46.html - Status: 200
+2026-10-06 20:48:21,173 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 20:48:21,186 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 20:48:21,187 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 20:48:21,959 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-47.html - Status: 200
+2026-10-06 20:48:23,002 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 20:48:23,111 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 20:48:23,115 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 20:48:24,603 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-48.html - Status: 200
+2026-10-06 20:48:25,271 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 20:48:25,296 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 20:48:25,297 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 20:48:26,521 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-49.html - Status: 200
+2026-10-06 20:48:27,095 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 20:48:27,122 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 20:48:27,122 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 20:48:28,125 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-50.html - Status: 200
+2026-10-06 20:48:28,730 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 20:48:28,746 | INFO | scrapers.books_scraper | Books scraping completed. Total books: 1000
+2026-10-06 20:48:28,747 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 20:48:28,748 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/
+2026-10-06 20:48:36,140 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/ - Status: 200
+2026-10-06 20:48:36,670 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/
+2026-10-06 20:48:36,702 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 20:48:36,703 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/2/
+2026-10-06 20:48:37,122 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/2/ - Status: 200
+2026-10-06 20:48:37,634 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/2/
+2026-10-06 20:48:37,640 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 20:48:37,641 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/3/
+2026-10-06 20:48:38,086 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/3/ - Status: 200
+2026-10-06 20:48:38,598 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/3/
+2026-10-06 20:48:38,605 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 20:48:38,605 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/4/
+2026-10-06 20:48:39,314 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/4/ - Status: 200
+2026-10-06 20:48:39,825 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/4/
+2026-10-06 20:48:39,836 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 20:48:39,838 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/5/
+2026-10-06 20:48:40,748 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/5/ - Status: 200
+2026-10-06 20:48:41,259 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/5/
+2026-10-06 20:48:41,267 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 20:48:41,267 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/6/
+2026-10-06 20:48:41,718 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/6/ - Status: 200
+2026-10-06 20:48:42,230 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/6/
+2026-10-06 20:48:42,237 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 20:48:42,238 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/7/
+2026-10-06 20:48:42,693 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/7/ - Status: 200
+2026-10-06 20:48:43,207 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/7/
+2026-10-06 20:48:43,231 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 20:48:43,232 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/8/
+2026-10-06 20:48:43,821 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/8/ - Status: 200
+2026-10-06 20:48:44,331 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/8/
+2026-10-06 20:48:44,337 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 20:48:44,338 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/9/
+2026-10-06 20:48:45,048 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/9/ - Status: 200
+2026-10-06 20:48:45,582 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/9/
+2026-10-06 20:48:45,594 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 20:48:45,599 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/10/
+2026-10-06 20:48:45,969 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/10/ - Status: 200
+2026-10-06 20:48:46,480 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/10/
+2026-10-06 20:48:46,486 | INFO | scrapers.quotes_scraper | Quotes scraping completed. Total quotes: 100
+2026-10-06 20:48:46,487 | INFO | __main__ | Books records collected: 1000
+2026-10-06 20:48:46,488 | INFO | __main__ | Quotes records collected: 100
+2026-10-06 20:48:46,492 | INFO | __main__ | Total raw records: 1100
+2026-10-06 20:48:46,524 | INFO | __main__ | Records after cleaning: 1100
+2026-10-06 20:48:46,540 | INFO | __main__ | Valid records: 1100
+2026-10-06 20:48:46,541 | INFO | __main__ | Rejected records: 0
+2026-10-06 20:48:46,556 | INFO | __main__ | Unique records: 1099
+2026-10-06 20:48:46,557 | INFO | __main__ | Duplicate records: 1
+2026-10-06 20:48:46,576 | INFO | __main__ | CSV written to: C:\Users\chand\Downloads\scraping_assignment\output\final_dataset.csv
+2026-10-06 20:48:46,581 | INFO | __main__ | Summary written to: C:\Users\chand\Downloads\scraping_assignment\output\summary_report.json
+2026-10-06 20:48:46,582 | INFO | __main__ | Pipeline completed successfully in 114.08 seconds
+2026-10-06 21:00:22,312 | INFO | __main__ | Starting scraping pipeline
+2026-10-06 21:00:22,321 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/
+2026-10-06 21:00:22,322 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/
+2026-10-06 21:00:24,643 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/ - Status: 200
+2026-10-06 21:00:25,177 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/
+2026-10-06 21:00:25,193 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:00:25,194 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:00:25,903 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-2.html - Status: 200
+2026-10-06 21:00:26,432 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:00:26,441 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:00:26,441 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:00:27,174 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-3.html - Status: 200
+2026-10-06 21:00:27,700 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:00:27,710 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:00:27,710 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:00:28,715 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-4.html - Status: 200
+2026-10-06 21:00:29,244 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:00:29,257 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:00:29,258 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:00:30,174 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-5.html - Status: 200
+2026-10-06 21:00:30,700 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:00:30,802 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:00:30,845 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:00:31,987 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-6.html - Status: 200
+2026-10-06 21:00:32,516 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:00:32,538 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:00:32,539 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:00:33,020 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-7.html - Status: 200
+2026-10-06 21:00:33,546 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:00:33,555 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:00:33,555 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:00:34,035 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-8.html - Status: 200
+2026-10-06 21:00:34,562 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:00:34,571 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:00:34,572 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:00:35,678 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-9.html - Status: 200
+2026-10-06 21:00:36,200 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:00:36,209 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:00:36,210 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:00:37,004 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-10.html - Status: 200
+2026-10-06 21:00:37,531 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:00:37,541 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:00:37,541 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:00:38,753 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-11.html - Status: 200
+2026-10-06 21:00:39,278 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:00:39,297 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:00:39,297 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:00:40,275 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-12.html - Status: 200
+2026-10-06 21:00:40,829 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:00:40,839 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:00:40,839 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:00:41,264 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-13.html - Status: 200
+2026-10-06 21:00:41,791 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:00:41,801 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:00:41,809 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:00:42,638 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-14.html - Status: 200
+2026-10-06 21:00:43,205 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:00:43,214 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:00:43,215 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:00:44,022 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-15.html - Status: 200
+2026-10-06 21:00:44,547 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:00:44,556 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:00:44,557 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:00:48,581 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-16.html - Status: 200
+2026-10-06 21:00:49,108 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:00:49,118 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:00:49,118 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:00:50,221 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-17.html - Status: 200
+2026-10-06 21:00:50,747 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:00:50,755 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:00:50,755 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:00:51,974 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-18.html - Status: 200
+2026-10-06 21:00:52,500 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:00:52,509 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:00:52,509 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:00:55,540 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-19.html - Status: 200
+2026-10-06 21:00:56,067 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:00:56,076 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:00:56,077 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:00:59,842 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-20.html - Status: 200
+2026-10-06 21:01:00,377 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:01:00,387 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:01:00,387 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:01:01,171 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-21.html - Status: 200
+2026-10-06 21:01:01,697 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:01:01,707 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:01:01,707 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:01:02,503 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-22.html - Status: 200
+2026-10-06 21:01:03,029 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:01:03,040 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:01:03,040 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:01:03,796 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-23.html - Status: 200
+2026-10-06 21:01:04,324 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:01:04,334 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:01:04,334 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:01:05,169 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-24.html - Status: 200
+2026-10-06 21:01:05,706 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:01:05,717 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:01:05,718 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:01:06,423 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-25.html - Status: 200
+2026-10-06 21:01:06,949 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:01:06,963 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:01:06,963 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:01:07,725 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-26.html - Status: 200
+2026-10-06 21:01:08,251 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:01:08,263 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:01:08,264 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:01:09,060 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-27.html - Status: 200
+2026-10-06 21:01:09,588 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:01:09,599 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:01:09,600 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:01:10,386 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-28.html - Status: 200
+2026-10-06 21:01:10,914 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:01:10,937 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:01:10,937 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:01:11,823 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-29.html - Status: 200
+2026-10-06 21:01:12,348 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:01:12,359 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:01:12,359 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:01:13,354 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-30.html - Status: 200
+2026-10-06 21:01:13,885 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:01:13,897 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:01:13,898 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:01:14,791 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-31.html - Status: 200
+2026-10-06 21:01:15,317 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:01:15,327 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:01:15,327 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:01:16,224 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-32.html - Status: 200
+2026-10-06 21:01:16,750 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:01:16,760 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:01:16,761 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:01:17,864 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-33.html - Status: 200
+2026-10-06 21:01:18,392 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:01:18,402 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:01:18,402 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:01:18,798 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-34.html - Status: 200
+2026-10-06 21:01:19,325 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:01:19,334 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:01:19,335 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:01:20,325 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-35.html - Status: 200
+2026-10-06 21:01:20,849 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:01:20,858 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:01:20,859 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:01:21,651 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-36.html - Status: 200
+2026-10-06 21:01:22,177 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:01:22,202 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:01:22,203 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:01:23,601 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-37.html - Status: 200
+2026-10-06 21:01:24,188 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:01:24,196 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:01:24,197 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:01:24,727 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-38.html - Status: 200
+2026-10-06 21:01:25,253 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:01:25,262 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:01:25,263 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:01:25,755 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-39.html - Status: 200
+2026-10-06 21:01:26,284 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:01:26,295 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:01:26,295 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:01:26,676 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-40.html - Status: 200
+2026-10-06 21:01:27,201 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:01:27,212 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:01:27,212 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:01:28,043 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-41.html - Status: 200
+2026-10-06 21:01:28,572 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:01:28,592 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:01:28,592 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:01:29,536 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-42.html - Status: 200
+2026-10-06 21:01:30,061 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:01:30,072 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:01:30,072 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:01:30,869 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-43.html - Status: 200
+2026-10-06 21:01:31,393 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:01:31,413 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:01:31,414 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:01:32,198 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-44.html - Status: 200
+2026-10-06 21:01:32,723 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:01:32,733 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:01:32,736 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:01:33,786 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-45.html - Status: 200
+2026-10-06 21:01:34,312 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:01:34,323 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:01:34,324 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:01:34,869 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-46.html - Status: 200
+2026-10-06 21:01:35,397 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:01:35,408 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:01:35,409 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:01:35,785 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-47.html - Status: 200
+2026-10-06 21:01:36,309 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:01:36,318 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:01:36,318 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:01:37,114 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-48.html - Status: 200
+2026-10-06 21:01:37,642 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:01:37,654 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:01:37,655 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:01:38,754 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-49.html - Status: 200
+2026-10-06 21:01:39,280 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:01:39,303 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:01:39,305 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:01:39,802 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-50.html - Status: 200
+2026-10-06 21:01:40,328 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:01:40,341 | INFO | scrapers.books_scraper | Books scraping completed. Total books: 1000
+2026-10-06 21:01:40,346 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 21:01:40,346 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/
+2026-10-06 21:01:43,053 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/ - Status: 200
+2026-10-06 21:01:43,563 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/
+2026-10-06 21:01:43,588 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 21:01:43,588 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/2/
+2026-10-06 21:01:44,286 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/2/ - Status: 200
+2026-10-06 21:01:44,796 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/2/
+2026-10-06 21:01:44,804 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 21:01:44,805 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/3/
+2026-10-06 21:01:45,206 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/3/ - Status: 200
+2026-10-06 21:01:45,715 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/3/
+2026-10-06 21:01:45,721 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 21:01:45,722 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/4/
+2026-10-06 21:01:46,331 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/4/ - Status: 200
+2026-10-06 21:01:46,842 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/4/
+2026-10-06 21:01:46,846 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 21:01:46,846 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/5/
+2026-10-06 21:01:47,457 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/5/ - Status: 200
+2026-10-06 21:01:47,966 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/5/
+2026-10-06 21:01:47,997 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 21:01:47,997 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/6/
+2026-10-06 21:01:48,381 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/6/ - Status: 200
+2026-10-06 21:01:48,892 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/6/
+2026-10-06 21:01:48,896 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 21:01:48,896 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/7/
+2026-10-06 21:01:49,404 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/7/ - Status: 200
+2026-10-06 21:01:49,945 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/7/
+2026-10-06 21:01:49,949 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 21:01:49,950 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/8/
+2026-10-06 21:01:50,385 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/8/ - Status: 200
+2026-10-06 21:01:50,895 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/8/
+2026-10-06 21:01:50,908 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 21:01:50,908 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/9/
+2026-10-06 21:01:51,364 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/9/ - Status: 200
+2026-10-06 21:01:51,874 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/9/
+2026-10-06 21:01:51,879 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 21:01:51,879 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/10/
+2026-10-06 21:01:52,273 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/10/ - Status: 200
+2026-10-06 21:01:52,782 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/10/
+2026-10-06 21:01:52,789 | INFO | scrapers.quotes_scraper | Quotes scraping completed. Total quotes: 100
+2026-10-06 21:01:52,790 | INFO | __main__ | Books records collected: 1000
+2026-10-06 21:01:52,790 | INFO | __main__ | Quotes records collected: 100
+2026-10-06 21:01:52,793 | INFO | __main__ | Total raw records: 1100
+2026-10-06 21:01:52,823 | INFO | __main__ | Records after cleaning: 1100
+2026-10-06 21:01:52,835 | INFO | __main__ | Valid records: 1100
+2026-10-06 21:01:52,836 | INFO | __main__ | Rejected records: 0
+2026-10-06 21:01:52,847 | INFO | __main__ | Unique records: 1099
+2026-10-06 21:01:52,847 | INFO | __main__ | Duplicate records: 1
+2026-10-06 21:01:52,863 | INFO | __main__ | CSV written to: C:\Users\chand\Downloads\scraping_assignment\output\final_dataset.csv
+2026-10-06 21:01:52,864 | INFO | __main__ | Summary written to: C:\Users\chand\Downloads\scraping_assignment\output\summary_report.json
+2026-10-06 21:01:52,865 | INFO | __main__ | Pipeline completed successfully in 90.55 seconds
+2026-10-06 21:05:25,551 | INFO | __main__ | Starting scraping pipeline
+2026-10-06 21:05:25,560 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/
+2026-10-06 21:05:25,563 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/
+2026-10-06 21:05:28,024 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/ - Status: 200
+2026-10-06 21:05:28,574 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/
+2026-10-06 21:05:28,588 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:05:28,589 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:05:29,344 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-2.html - Status: 200
+2026-10-06 21:05:29,870 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:05:29,879 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:05:29,879 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:05:30,619 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-3.html - Status: 200
+2026-10-06 21:05:31,146 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:05:31,169 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:05:31,169 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:05:32,249 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-4.html - Status: 200
+2026-10-06 21:05:32,772 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:05:32,782 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:05:32,782 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:05:33,959 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-5.html - Status: 200
+2026-10-06 21:05:34,486 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:05:34,496 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:05:34,497 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:05:35,098 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-6.html - Status: 200
+2026-10-06 21:05:35,624 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:05:35,638 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:05:35,639 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:05:36,733 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-7.html - Status: 200
+2026-10-06 21:05:37,273 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:05:37,282 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:05:37,282 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:05:38,315 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-8.html - Status: 200
+2026-10-06 21:05:38,841 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:05:38,851 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:05:38,851 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:05:39,807 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-9.html - Status: 200
+2026-10-06 21:05:40,333 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:05:40,342 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:05:40,342 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:05:41,644 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-10.html - Status: 200
+2026-10-06 21:05:42,174 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:05:42,185 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:05:42,186 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:05:43,282 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-11.html - Status: 200
+2026-10-06 21:05:43,807 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:05:43,817 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:05:43,818 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:05:44,640 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-12.html - Status: 200
+2026-10-06 21:05:45,196 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:05:45,205 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:05:45,205 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:05:46,152 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-13.html - Status: 200
+2026-10-06 21:05:46,676 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:05:46,687 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:05:46,688 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:05:47,789 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-14.html - Status: 200
+2026-10-06 21:05:48,316 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:05:48,328 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:05:48,333 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:05:49,425 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-15.html - Status: 200
+2026-10-06 21:05:49,967 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:05:49,978 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:05:49,979 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:05:51,270 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-16.html - Status: 200
+2026-10-06 21:05:51,799 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:05:51,810 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:05:51,810 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:05:52,909 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-17.html - Status: 200
+2026-10-06 21:05:53,434 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:05:53,444 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:05:53,444 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:05:54,435 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-18.html - Status: 200
+2026-10-06 21:05:54,957 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:05:54,967 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:05:54,967 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:05:56,189 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-19.html - Status: 200
+2026-10-06 21:05:56,711 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:05:56,721 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:05:56,721 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:05:57,827 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-20.html - Status: 200
+2026-10-06 21:05:58,352 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:05:58,362 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:05:58,362 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:05:59,364 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-21.html - Status: 200
+2026-10-06 21:05:59,891 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:05:59,902 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:05:59,902 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:06:00,707 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-22.html - Status: 200
+2026-10-06 21:06:01,240 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:06:01,255 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:06:01,256 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:06:02,126 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-23.html - Status: 200
+2026-10-06 21:06:02,653 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:06:02,661 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:06:02,661 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:06:03,914 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-24.html - Status: 200
+2026-10-06 21:06:04,437 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:06:04,449 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:06:04,449 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:06:04,866 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-25.html - Status: 200
+2026-10-06 21:06:05,397 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:06:05,407 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:06:05,408 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:06:05,816 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-26.html - Status: 200
+2026-10-06 21:06:06,343 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:06:06,352 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:06:06,353 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:06:06,931 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-27.html - Status: 200
+2026-10-06 21:06:07,470 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:06:07,487 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:06:07,488 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:06:07,886 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-28.html - Status: 200
+2026-10-06 21:06:08,425 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:06:08,438 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:06:08,438 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:06:09,702 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-29.html - Status: 200
+2026-10-06 21:06:10,224 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:06:10,233 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:06:10,234 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:06:10,648 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-30.html - Status: 200
+2026-10-06 21:06:11,173 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:06:11,182 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:06:11,182 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:06:11,951 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-31.html - Status: 200
+2026-10-06 21:06:12,475 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:06:12,490 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:06:12,490 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:06:12,905 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-32.html - Status: 200
+2026-10-06 21:06:13,436 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:06:13,451 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:06:13,451 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:06:13,920 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-33.html - Status: 200
+2026-10-06 21:06:14,453 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:06:14,469 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:06:14,470 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:06:15,332 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-34.html - Status: 200
+2026-10-06 21:06:15,862 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:06:15,871 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:06:15,871 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:06:17,176 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-35.html - Status: 200
+2026-10-06 21:06:17,708 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:06:17,720 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:06:17,720 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:06:19,325 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-36.html - Status: 200
+2026-10-06 21:06:19,856 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:06:19,871 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:06:19,871 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:06:20,292 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-37.html - Status: 200
+2026-10-06 21:06:20,879 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:06:20,888 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:06:20,889 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:06:21,641 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-38.html - Status: 200
+2026-10-06 21:06:22,218 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:06:22,237 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:06:22,238 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:06:23,119 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-39.html - Status: 200
+2026-10-06 21:06:23,651 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:06:23,664 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:06:23,665 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:06:24,443 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-40.html - Status: 200
+2026-10-06 21:06:24,974 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:06:24,989 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:06:24,989 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:06:25,773 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-41.html - Status: 200
+2026-10-06 21:06:26,334 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:06:26,390 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:06:26,391 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:06:27,211 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-42.html - Status: 200
+2026-10-06 21:06:27,747 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:06:27,762 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:06:27,762 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:06:28,607 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-43.html - Status: 200
+2026-10-06 21:06:29,186 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:06:29,284 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:06:29,287 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:06:30,074 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-44.html - Status: 200
+2026-10-06 21:06:30,610 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:06:30,627 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:06:30,628 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:06:31,646 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-45.html - Status: 200
+2026-10-06 21:06:32,401 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:06:32,426 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:06:32,435 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:06:33,422 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-46.html - Status: 200
+2026-10-06 21:06:34,024 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:06:34,057 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:06:34,058 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:06:34,799 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-47.html - Status: 200
+2026-10-06 21:06:35,338 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:06:35,353 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:06:35,353 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:06:36,091 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-48.html - Status: 200
+2026-10-06 21:06:36,628 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:06:36,711 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:06:36,719 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:06:37,758 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-49.html - Status: 200
+2026-10-06 21:06:38,292 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:06:38,308 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:06:38,309 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:06:38,743 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-50.html - Status: 200
+2026-10-06 21:06:39,293 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:06:39,309 | INFO | scrapers.books_scraper | Books scraping completed. Total books: 1000
+2026-10-06 21:06:39,310 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 21:06:39,311 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/
+2026-10-06 21:06:42,775 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/ - Status: 200
+2026-10-06 21:06:43,289 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/
+2026-10-06 21:06:43,295 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 21:06:43,295 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/2/
+2026-10-06 21:06:43,756 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/2/ - Status: 200
+2026-10-06 21:06:44,283 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/2/
+2026-10-06 21:06:44,288 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 21:06:44,289 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/3/
+2026-10-06 21:06:44,722 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/3/ - Status: 200
+2026-10-06 21:06:45,235 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/3/
+2026-10-06 21:06:45,240 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 21:06:45,242 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/4/
+2026-10-06 21:06:45,818 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/4/ - Status: 200
+2026-10-06 21:06:46,328 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/4/
+2026-10-06 21:06:46,336 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 21:06:46,336 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/5/
+2026-10-06 21:06:47,245 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/5/ - Status: 200
+2026-10-06 21:06:47,755 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/5/
+2026-10-06 21:06:47,760 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 21:06:47,760 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/6/
+2026-10-06 21:06:48,816 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/6/ - Status: 200
+2026-10-06 21:06:49,329 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/6/
+2026-10-06 21:06:49,335 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 21:06:49,339 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/7/
+2026-10-06 21:06:50,963 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/7/ - Status: 200
+2026-10-06 21:06:51,476 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/7/
+2026-10-06 21:06:51,480 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 21:06:51,480 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/8/
+2026-10-06 21:06:52,498 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/8/ - Status: 200
+2026-10-06 21:06:53,015 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/8/
+2026-10-06 21:06:53,022 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 21:06:53,022 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/9/
+2026-10-06 21:06:53,428 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/9/ - Status: 200
+2026-10-06 21:06:53,942 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/9/
+2026-10-06 21:06:53,947 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 21:06:53,949 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/10/
+2026-10-06 21:06:54,347 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/10/ - Status: 200
+2026-10-06 21:06:54,864 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/10/
+2026-10-06 21:06:54,872 | INFO | scrapers.quotes_scraper | Quotes scraping completed. Total quotes: 100
+2026-10-06 21:06:54,872 | INFO | __main__ | Books records collected: 1000
+2026-10-06 21:06:54,874 | INFO | __main__ | Quotes records collected: 100
+2026-10-06 21:06:54,881 | INFO | __main__ | Total raw records: 1100
+2026-10-06 21:06:54,918 | INFO | __main__ | Records after cleaning: 1100
+2026-10-06 21:06:54,939 | INFO | __main__ | Valid records: 1100
+2026-10-06 21:06:54,939 | INFO | __main__ | Rejected records: 0
+2026-10-06 21:06:54,957 | INFO | __main__ | Unique records: 1099
+2026-10-06 21:06:54,958 | INFO | __main__ | Duplicate records: 1
+2026-10-06 21:06:54,983 | INFO | __main__ | CSV written to: C:\Users\chand\Downloads\scraping_assignment\output\final_dataset.csv
+2026-10-06 21:06:54,986 | INFO | __main__ | Summary written to: C:\Users\chand\Downloads\scraping_assignment\output\summary_report.json
+2026-10-06 21:06:54,987 | INFO | __main__ | Pipeline completed successfully in 89.43 seconds
+2026-10-06 21:18:43,516 | INFO | __main__ | Starting scraping pipeline
+2026-10-06 21:18:43,518 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/
+2026-10-06 21:18:43,519 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/
+2026-10-06 21:18:46,146 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/ - Status: 200
+2026-10-06 21:18:46,679 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/
+2026-10-06 21:18:46,694 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:18:46,694 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:18:47,517 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-2.html - Status: 200
+2026-10-06 21:18:48,051 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:18:48,062 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:18:48,062 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:18:48,789 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-3.html - Status: 200
+2026-10-06 21:18:49,317 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:18:49,332 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:18:49,332 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:18:50,292 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-4.html - Status: 200
+2026-10-06 21:18:50,819 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:18:50,829 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:18:50,829 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:18:51,604 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-5.html - Status: 200
+2026-10-06 21:18:52,127 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:18:52,136 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:18:52,136 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:18:53,169 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-6.html - Status: 200
+2026-10-06 21:18:53,695 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:18:53,705 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:18:53,705 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:18:54,153 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-7.html - Status: 200
+2026-10-06 21:18:54,681 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:18:54,690 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:18:54,691 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:18:55,855 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-8.html - Status: 200
+2026-10-06 21:18:56,381 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:18:56,392 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:18:56,392 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:18:57,289 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-9.html - Status: 200
+2026-10-06 21:18:57,812 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:18:57,821 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:18:57,821 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:18:59,133 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-10.html - Status: 200
+2026-10-06 21:18:59,662 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:18:59,673 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:18:59,673 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:19:00,564 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-11.html - Status: 200
+2026-10-06 21:19:01,089 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:19:01,099 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:19:01,099 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:19:01,999 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-12.html - Status: 200
+2026-10-06 21:19:02,549 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:19:02,558 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:19:02,559 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:19:03,635 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-13.html - Status: 200
+2026-10-06 21:19:04,159 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:19:04,190 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:19:04,192 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:19:04,663 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-14.html - Status: 200
+2026-10-06 21:19:05,194 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:19:05,206 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:19:05,207 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:19:06,031 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-15.html - Status: 200
+2026-10-06 21:19:06,555 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:19:06,564 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:19:06,564 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:19:07,426 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-16.html - Status: 200
+2026-10-06 21:19:07,951 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:19:07,961 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:19:07,961 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:19:08,704 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-17.html - Status: 200
+2026-10-06 21:19:09,229 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:19:09,239 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:19:09,239 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:19:10,351 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-18.html - Status: 200
+2026-10-06 21:19:10,877 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:19:10,887 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:19:10,887 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:19:11,388 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-19.html - Status: 200
+2026-10-06 21:19:11,923 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:19:11,935 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:19:11,939 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:19:13,057 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-20.html - Status: 200
+2026-10-06 21:19:13,581 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:19:13,591 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:19:13,593 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:19:14,085 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-21.html - Status: 200
+2026-10-06 21:19:14,612 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:19:14,632 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:19:14,633 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:19:15,515 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-22.html - Status: 200
+2026-10-06 21:19:16,055 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:19:16,076 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:19:16,077 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:19:16,847 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-23.html - Status: 200
+2026-10-06 21:19:17,377 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:19:17,389 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:19:17,389 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:19:18,383 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-24.html - Status: 200
+2026-10-06 21:19:18,910 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:19:18,921 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:19:18,922 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:19:20,224 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-25.html - Status: 200
+2026-10-06 21:19:20,751 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:19:20,762 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:19:20,762 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:19:21,819 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-26.html - Status: 200
+2026-10-06 21:19:22,347 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:19:22,357 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:19:22,357 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:19:23,081 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-27.html - Status: 200
+2026-10-06 21:19:23,607 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:19:23,617 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:19:23,618 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:19:24,664 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-28.html - Status: 200
+2026-10-06 21:19:25,190 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:19:25,201 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:19:25,204 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:19:25,904 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-29.html - Status: 200
+2026-10-06 21:19:26,428 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:19:26,441 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:19:26,441 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:19:27,287 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-30.html - Status: 200
+2026-10-06 21:19:27,813 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:19:27,828 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:19:27,828 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:19:28,965 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-31.html - Status: 200
+2026-10-06 21:19:29,490 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:19:29,507 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:19:29,507 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:19:30,216 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-32.html - Status: 200
+2026-10-06 21:19:30,742 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:19:30,757 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:19:30,757 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:19:32,149 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-33.html - Status: 200
+2026-10-06 21:19:32,674 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:19:32,683 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:19:32,683 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:19:33,416 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-34.html - Status: 200
+2026-10-06 21:19:33,941 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:19:33,965 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:19:33,966 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:19:34,704 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-35.html - Status: 200
+2026-10-06 21:19:35,228 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:19:35,256 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:19:35,256 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:19:36,178 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-36.html - Status: 200
+2026-10-06 21:19:36,704 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:19:36,713 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:19:36,714 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:19:37,637 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-37.html - Status: 200
+2026-10-06 21:19:38,216 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:19:38,225 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:19:38,225 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:19:39,271 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-38.html - Status: 200
+2026-10-06 21:19:39,799 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:19:39,809 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:19:39,809 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:19:40,203 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-39.html - Status: 200
+2026-10-06 21:19:40,731 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:19:40,747 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:19:40,748 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:19:41,475 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-40.html - Status: 200
+2026-10-06 21:19:42,000 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:19:42,013 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:19:42,013 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:19:42,959 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-41.html - Status: 200
+2026-10-06 21:19:43,485 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:19:43,495 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:19:43,495 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:19:44,387 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-42.html - Status: 200
+2026-10-06 21:19:44,915 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:19:44,924 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:19:44,924 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:19:46,038 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-43.html - Status: 200
+2026-10-06 21:19:46,565 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:19:46,575 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:19:46,577 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:19:47,463 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-44.html - Status: 200
+2026-10-06 21:19:47,990 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:19:47,999 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:19:47,999 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:19:48,914 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-45.html - Status: 200
+2026-10-06 21:19:49,438 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:19:49,448 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:19:49,449 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:19:50,330 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-46.html - Status: 200
+2026-10-06 21:19:50,858 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:19:50,867 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:19:50,867 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:19:51,965 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-47.html - Status: 200
+2026-10-06 21:19:52,493 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:19:52,505 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:19:52,507 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:19:53,081 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-48.html - Status: 200
+2026-10-06 21:19:53,611 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:19:53,629 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:19:53,630 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:19:54,421 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-49.html - Status: 200
+2026-10-06 21:19:54,956 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:19:54,965 | INFO | scrapers.books_scraper | Scraping books page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:19:54,965 | INFO | scrapers.base_scraper | Fetching URL: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:19:55,860 | INFO | scrapers.base_scraper | Successfully fetched https://books.toscrape.com/catalogue/page-50.html - Status: 200
+2026-10-06 21:19:56,386 | INFO | scrapers.books_scraper | Found 20 books on page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:19:56,405 | INFO | scrapers.books_scraper | Books scraping completed. Total books: 1000
+2026-10-06 21:19:56,407 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 21:19:56,407 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/
+2026-10-06 21:19:58,425 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/ - Status: 200
+2026-10-06 21:19:58,936 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/
+2026-10-06 21:19:58,940 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 21:19:58,941 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/2/
+2026-10-06 21:19:59,315 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/2/ - Status: 200
+2026-10-06 21:19:59,826 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/2/
+2026-10-06 21:19:59,829 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 21:19:59,829 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/3/
+2026-10-06 21:20:00,404 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/3/ - Status: 200
+2026-10-06 21:20:00,914 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/3/
+2026-10-06 21:20:00,917 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 21:20:00,917 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/4/
+2026-10-06 21:20:01,288 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/4/ - Status: 200
+2026-10-06 21:20:01,798 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/4/
+2026-10-06 21:20:01,802 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 21:20:01,803 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/5/
+2026-10-06 21:20:02,247 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/5/ - Status: 200
+2026-10-06 21:20:02,756 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/5/
+2026-10-06 21:20:02,761 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 21:20:02,761 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/6/
+2026-10-06 21:20:03,168 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/6/ - Status: 200
+2026-10-06 21:20:03,684 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/6/
+2026-10-06 21:20:03,688 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 21:20:03,689 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/7/
+2026-10-06 21:20:04,391 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/7/ - Status: 200
+2026-10-06 21:20:04,905 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/7/
+2026-10-06 21:20:04,919 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 21:20:04,919 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/8/
+2026-10-06 21:20:05,625 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/8/ - Status: 200
+2026-10-06 21:20:06,134 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/8/
+2026-10-06 21:20:06,139 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 21:20:06,140 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/9/
+2026-10-06 21:20:07,020 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/9/ - Status: 200
+2026-10-06 21:20:07,533 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/9/
+2026-10-06 21:20:07,537 | INFO | scrapers.quotes_scraper | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 21:20:07,537 | INFO | scrapers.base_scraper | Fetching URL: https://quotes.toscrape.com/page/10/
+2026-10-06 21:20:07,994 | INFO | scrapers.base_scraper | Successfully fetched https://quotes.toscrape.com/page/10/ - Status: 200
+2026-10-06 21:20:08,502 | INFO | scrapers.quotes_scraper | Found 10 quotes on page: https://quotes.toscrape.com/page/10/
+2026-10-06 21:20:08,505 | INFO | scrapers.quotes_scraper | Quotes scraping completed. Total quotes: 100
+2026-10-06 21:20:08,505 | INFO | __main__ | Books records collected: 1000
+2026-10-06 21:20:08,506 | INFO | __main__ | Quotes records collected: 100
+2026-10-06 21:20:08,509 | INFO | __main__ | Total raw records: 1100
+2026-10-06 21:20:08,538 | INFO | __main__ | Records after cleaning: 1100
+2026-10-06 21:20:08,548 | INFO | __main__ | Valid records: 1100
+2026-10-06 21:20:08,549 | INFO | __main__ | Rejected records: 0
+2026-10-06 21:20:08,561 | INFO | __main__ | Unique records: 1099
+2026-10-06 21:20:08,561 | INFO | __main__ | Duplicate records: 1
+2026-10-06 21:20:08,578 | INFO | __main__ | CSV written to: C:\Users\chand\Downloads\scraping_assignment\output\final_dataset.csv
+2026-10-06 21:20:08,580 | INFO | __main__ | Summary written to: C:\Users\chand\Downloads\scraping_assignment\output\summary_report.json
+2026-10-06 21:20:08,580 | INFO | __main__ | Pipeline completed successfully in 85.06 seconds
